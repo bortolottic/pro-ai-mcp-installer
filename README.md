@@ -547,10 +547,10 @@ Caso precise de uma versão específica (para ambientes de homologação ou roll
 **Linux, macOS ou WSL2 (Windows):**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/bortolottic/pro-ai-mcp-installer/refs/heads/main/install.sh | bash -s v1.0.26.2
+curl -fsSL https://raw.githubusercontent.com/bortolottic/pro-ai-mcp-installer/refs/heads/main/install.sh | bash -s V1.0.26.2
 ```
 
-Substitua `v1.0.26.2` pelo número da versão desejada. Todas as versões disponíveis estão na página de [Releases do GitHub](https://github.com/bortolottic/pro-ai-mcp-installer/releases).
+Substitua `V1.0.26.2` pelo número da versão desejada. Todas as versões disponíveis estão na página de [Releases do GitHub](https://github.com/bortolottic/pro-ai-mcp-installer/releases).
 
 ---
 
